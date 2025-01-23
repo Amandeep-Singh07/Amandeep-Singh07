@@ -1,7 +1,6 @@
 ## Hi there 👋
 
 
-**amandeep12062002/amandeep12062002** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Welcome to My GitHub Repository! 👋
 Hi there! 🙌 I'm Amandeep, a passionate developer, problem-solver, and lifelong learner. This repository is a collection of my projects, code samples, and experiments. Here, you'll find a blend of practical solutions, creative ideas, and explorations in programming, designed to improve my skills and contribute to the developer community.
