@@ -16,7 +16,7 @@ Hi there! 🙌 I'm Amandeep, a passionate developer, problem-solver, and lifelon
 
 ###
 
-<p align="left">✨ Currently learning Python and Java.<br>📚 I'm currently learning PHP <br>🎯 Goals: master react<br>🎲 </p>
+<p align="left">✨ Currently learning Python and Java.<br>📚 I'm currently learning PHP <br>🎯 Goals: master react<br> </p>
 
 ###
 
