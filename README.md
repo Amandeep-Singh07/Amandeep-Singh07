@@ -107,28 +107,7 @@
 </div>  
 
 
-<!-- #### Tools:
 
-<div align="center">
-<img src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" alt="Git" height="40">
-<img src="https://cdn.pixabay.com/photo/2022/01/30/13/33/github-6980894_1280.png" alt="GitHub" height="40">
-<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTswrbQkpbml3yz6cosnyRAHQm5wDCkMGHelw&s" alt="GitKraken" height="40">
-<img src="https://yt3.googleusercontent.com/X-rhKMndFm9hT9wIaJns1StBfGbFdLTkAROwm4UZ3n9ucrBky5CFIeeZhSszFXBgQjItzCD0SA=s900-c-k-c0x00ffffff-no-rj" alt="Postman" height="40">
-<img src="https://jeancochrane.com/static/images/blog/netlify-identity-dealbreakers/netlify-logo.png" alt="Netlify" height="40">
-<img src="https://download.blender.org/branding/blender_logo_socket.png" alt="Blender" height="40">
-<img src="https://pbs.twimg.com/profile_images/689189555765784576/3wgIDj3j_400x400.png" alt="Heroku" height="40">
-<img src="https://supabase.com/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fsupabase-logo-wordmark--dark.b36ebb5f.png&w=256&q=75" alt="Supabase" height="40"> 
-<img src="https://www.gstatic.com/devrel-devsite/prod/v138136e2eb30b542aaba1f756fef1bb285a0aca3815d9b3afa69262b01441aa5/firebase/images/lockup.svg" alt="Firebase" height="40">
-<img src="https://www.docker.com/wp-content/uploads/2022/03/vertical-logo-monochromatic.png" alt="Docker" height="40">
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Amazon_Web_Services_Logo.svg/800px-Amazon_Web_Services_Logo.svg.png" alt="AWS" height="40"> 
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Microsoft_Azure.svg/1200px-Microsoft_Azure.svg.png" alt="Azure" height="40"> 
-<img src="https://profilinator.rishav.dev/skills-assets/google_cloud-icon.svg" alt="Google Cloud" height="40">
-<img src="https://i.ibb.co/5FRD0cs/download.jpg" alt="Burp Suite" height="40">
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Nessus-Professional-FullColor-RGB.svg/2560px-Nessus-Professional-FullColor-RGB.svg.png" alt="Nessus" height="40">
-<img src="https://mms.businesswire.com/media/20211123005573/en/929867/23/vercel-logo-freelogovectors.net.jpg" alt="Vercel" height="40"> 
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Arduino_Logo.svg/720px-Arduino_Logo.svg.png" alt="Arduino" height="40">
-<img src="https://w7.pngwing.com/pngs/540/279/png-transparent-raspberry-pi-foundation-raspberry-pi-3-raspbian-the-magpi-raspberry-pi-logo-magenta-arduino.png" alt="Raspberry Pi" height="40">
-</div>  -->  
 
 #### IDEs / Text Editors:
 
@@ -170,7 +149,7 @@
       <ul>
         <li><img src="https://cdn-icons-png.flaticon.com/512/8743/8743996.png" width="15"/> Website:<a href="#"> In the process</a></li>
         <li><img src="https://static.vecteezy.com/system/resources/previews/022/484/508/non_2x/google-mail-gmail-icon-logo-symbol-free-png.png" width="15px"/> Email:<a href="mailto:amandeep16052000@gmail.com/"> amandeep16052000@gmail.com</a></li>
-        <li><img src="https://w7.pngwing.com/pngs/46/539/png-transparent-linkedin-logo-media-sns-social-social-links-icon.png" width="15px"/> LinkedIn:<a href="www.linkedin.com/in/amandeep-singh1120"> Amandeep Singh</a></li>
+        <li><img src="https://w7.pngwing.com/pngs/46/539/png-transparent-linkedin-logo-media-sns-social-social-links-icon.png" width="15px"/> LinkedIn:<a href="https://www.linkedin.com/in/amandeep-singh1120"> Amandeep Singh</a></li>
         
     
     
