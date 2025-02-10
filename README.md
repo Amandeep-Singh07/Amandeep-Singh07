@@ -194,30 +194,18 @@ learnershakil@github:~$ ./welcome.sh
     </td>
     <td>
       <ul>
-        <li><img src="https://cdn-icons-png.flaticon.com/512/8743/8743996.png" width="15"/> Website:<a href="http://learnershakil.me/"> learnershakil.me</a></li>
-        <li><img src="https://static.vecteezy.com/system/resources/previews/022/484/508/non_2x/google-mail-gmail-icon-logo-symbol-free-png.png" width="15px"/> Email:<a href="mailto:learnershakil@gmail.com/"> learnershakil@gmail.com</a></li>
-        <li><img src="https://w7.pngwing.com/pngs/46/539/png-transparent-linkedin-logo-media-sns-social-social-links-icon.png" width="15px"/> LinkedIn:<a href="https://www.linkedin.com/in/learnershakil/"> learnershakil</a></li>
-        <li><img src="https://static.vecteezy.com/system/resources/previews/016/716/467/non_2x/twitter-icon-free-png.png" width="15px"/> Twitter:<a href="https://x.com/learnershakil/"> learnershakil</a></li>
-        <li><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/1200px-Instagram_icon.png" width="15"/> Instagram:<a href="https://www.instagram.com/learnershakil/"> learnershakil</a></li>
-        <li><img src="https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png" width="15"/> GitHub:<a href="https://github.com/learnershakil/"> learnershakil</a></li>
+        <li><img src="https://cdn-icons-png.flaticon.com/512/8743/8743996.png" width="15"/> Website:<a href="#"> In the process</a></li>
+        <li><img src="https://static.vecteezy.com/system/resources/previews/022/484/508/non_2x/google-mail-gmail-icon-logo-symbol-free-png.png" width="15px"/> Email:<a href="mailto:amandeep16052000@gmail.com/"> amandeep16052000@gmail.com</a></li>
+        <li><img src="https://w7.pngwing.com/pngs/46/539/png-transparent-linkedin-logo-media-sns-social-social-links-icon.png" width="15px"/> LinkedIn:<a href="www.linkedin.com/in/amandeep-singh1120"> Amandeep Singh</a></li>
+        
+    
       </ul>
     </td>
   </tr>
 </table>
 
-<!-- Contribution Graph-->
 
-### 📈 Contribution Graph:
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100vw">
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=learnershakil&radius=16&theme=redical&area=true&order=5" height="300" alt="activity-graph graph"  />
-</div>
-<br>
-<!-- Snake-Eating My Contribution Graph -->
 
-### 🐍 Snake-Eating My Contribution Graph:
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif">
-<img src="https://raw.githubusercontent.com/ANSH127/ANSH127/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 
 
 ## Hi there 👋
