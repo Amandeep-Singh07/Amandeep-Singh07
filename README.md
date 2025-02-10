@@ -31,9 +31,7 @@
         <img align="left" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExcGQ1N2ltOXo5dWYxZ3RsZXp0Z2k4bXppNGJuZjFsdnd6eHFpc2JncSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2xu5zpSV3oqKcCSZ49/giphy.gif" height="300" width="250">
     </div>
  
-```
-learnershakil@github:~$ ./welcome.sh
-```
+
 
 ```markdown
 🎓 Pursuing a Diploma in Computer Science
@@ -158,21 +156,6 @@ learnershakil@github:~$ ./welcome.sh
 
 
 <br><br>
-### 🏆 GitHub Trophies
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100vw">
-
-
-![](https://github-profile-trophy.vercel.app/?username=learnershakil&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
-<br>
-
-<!-- WakaTime Section -->
-### ⏳ Coding Activity:
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100vw">
-<!--<img src="https://wakatime.com/badge/user/4e681fc4-42d5-4101-a352-d5223e090efa.svg" alt="WakaTime Badge" /> -->
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=learnershakil&layout=compact&theme=tokyonight&langs_count=6" height="235" />
-</div>
 
 <!-- Connect me Section -->
 ### 🤝 Connect with me:
@@ -199,65 +182,7 @@ learnershakil@github:~$ ./welcome.sh
 
 
 
-## Hi there 👋
 
-
-
-Welcome to My GitHub Repository! 👋
-Hi there! 🙌 I'm Amandeep, a passionate developer, problem-solver, and lifelong learner. This repository is a collection of my projects, code samples, and experiments. Here, you'll find a blend of practical solutions, creative ideas, and explorations in programming, designed to improve my skills and contribute to the developer community.
-
-
-
-
-<h2 align="left">About me</h2>
-
-###
-
-<img align="right" height="200" src="https://media.giphy.com/media/yYSSBtDgbbRzq/giphy.gif"  />
-
-###
-
-<p align="left">✨ Currently learning PHP, Java and javascript.<br>📚 I'm currently learning PHP <br>🎯 Goals: master react<br> </p>
-
-###
-
-<h1 align="left">languages I am working with</h1>
-
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="40" alt="tailwindcss logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="php logo" />
-  <img width="12" />
-  
-###
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Amandeep-Singh07&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
- 
-
-###
-
-
-
-</div>
 
 
   
