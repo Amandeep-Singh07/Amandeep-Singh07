@@ -1,4 +1,44 @@
 <!-- GIF SECTION -->
+<div style="display: flex; justify-content: center;">
+    <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" height="auto" width="auto" />
+</div>
+<br>
+
+<!-- HELLO SECTION -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Amandeep+Singh!" alt="HELLO SECTION">
+</p>
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif">
+
+<h3 align="center"> 
+  <img src="https://user-images.githubusercontent.com/74038190/235223599-0eadbd7c-c916-4f24-af9d-9242730e6172.gif" width="20"> Full Stack Developer  
+  <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/42077049-1939-493e-9a19-47ca5db36643" width="20"> Internet Explorer 
+</h3>
+
+<!-- About ME -->
+### <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/4503d891-510a-4ebd-94c4-ef8958a2e8d4" width="20"> About Me
+
+<div class="about-main" style="display: flex;">
+    <div align="left" style="display: flex; margin: 0px 70px 0px 15px; box-shadow: 10px 10px 13px -3px rgba(255,255,255,0.5);" class="about-left">
+        <img align="left" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExcGQ1N2ltOXo5dWYxZ3RsZXp0Z2k4bXppNGJuZjFsdnd6eHFpc2JncSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2xu5zpSV3oqKcCSZ49/giphy.gif" height="300" width="250">
+    </div>
+
+```markdown
+🎓 Pursuing a Diploma in Computer Science
+👨‍💻 Passionate about programming and exploring the world of technology.
+🔎 Main interests: Development & Penetration Testing
+🔭 Thriving on building robust backend systems.
+🌱 Currently diving into DevOps and Next.js
+🌟 Proficient in: Java, TypeScript
+💼 Open to collaboration on innovative web development projects!
+🚩 Keep coding, keep innovating! Let's build the future together!
+🐧 I use Arch btw...
+🎧 Most likely listening to a song right now
+🔄 To understand recursion, you first need to understand recursion.
+​​‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ 
+
+
+<!-- GIF SECTION -->
 <div style="display: flex; justify-content: center; ">
     <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" height="auto" width="auto" />
 </div>
@@ -146,11 +186,6 @@
     
   </tr>
 </table>
-
-
-<!-- Connect Me Section -->
-🤝 Connect with Me:
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%"><table> <tr> <td> <img src='https://user-images.githubusercontent.com/74038190/216644497-1951db19-8f3d-4e44-ac08-8e9d7e0d94a7.gif' width="200px"> </td> <td> <ul> <li><img src="https://cdn-icons-png.flaticon.com/512/8743/8743996.png" width="15"/> Website: <a href="#"> Coming Soon</a></li> <li><img src="https://static.vecteezy.com/system/resources/previews/022/484/508/non_2x/google-mail-gmail-icon-logo-symbol-free-png.png" width="15px"/> Email: <a href="mailto:amandeep16052000@gmail.com/"> amandeep16052000@gmail.com</a></li> <li><img src="https://w7.pngwing.com/pngs/46/539/png-transparent-linkedin-logo-media-sns-social-social-links-icon.png" width="15px"/> LinkedIn: <a href="https://www.linkedin.com/in/amandeep-singh1120"> Amandeep Singh</a></li> </ul> </td> </tr> </table> ```
 
 
 
