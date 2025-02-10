@@ -12,15 +12,6 @@
 
 <h3 align="center"> <img src="https://user-images.githubusercontent.com/74038190/235223599-0eadbd7c-c916-4f24-af9d-9242730e6172.gif" width="20">  Full Stack Developer   <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/42077049-1939-493e-9a19-47ca5db36643" width="20">  Internet Explorer  
 
-<!-- This will refresh counter on every page refresh -->
-<!--<div align="center">
-  <img src="https://profile-counter.glitch.me/learnershakil/count.svg?"  />
-</div>-->
-
-<!-- This will refresh counter on every new user visit -->
-<div align="center">
-  <img src="https://visitcount.itsvg.in/api?id=learnershakil&icon=0&color=0"  />
-</div>
 
 <!-- About ME -->
 
@@ -147,7 +138,7 @@
     </td>
     <td>
       <ul>
-        <li><img src="https://cdn-icons-png.flaticon.com/512/8743/8743996.png" width="15"/> Website:<a href="#"> In the process</a></li>
+        <li><img src="https://cdn-icons-png.flaticon.com/512/8743/8743996.png" width="15"/> Website:<a href="#"> In process</a></li>
         <li><img src="https://static.vecteezy.com/system/resources/previews/022/484/508/non_2x/google-mail-gmail-icon-logo-symbol-free-png.png" width="15px"/> Email:<a href="mailto:amandeep16052000@gmail.com/"> amandeep16052000@gmail.com</a></li>
         <li><img src="https://w7.pngwing.com/pngs/46/539/png-transparent-linkedin-logo-media-sns-social-social-links-icon.png" width="15px"/> LinkedIn:<a href="https://www.linkedin.com/in/amandeep-singh1120"> Amandeep Singh</a></li>
         
@@ -155,6 +146,11 @@
     
   </tr>
 </table>
+
+
+<!-- Connect Me Section -->
+🤝 Connect with Me:
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%"><table> <tr> <td> <img src='https://user-images.githubusercontent.com/74038190/216644497-1951db19-8f3d-4e44-ac08-8e9d7e0d94a7.gif' width="200px"> </td> <td> <ul> <li><img src="https://cdn-icons-png.flaticon.com/512/8743/8743996.png" width="15"/> Website: <a href="#"> Coming Soon</a></li> <li><img src="https://static.vecteezy.com/system/resources/previews/022/484/508/non_2x/google-mail-gmail-icon-logo-symbol-free-png.png" width="15px"/> Email: <a href="mailto:amandeep16052000@gmail.com/"> amandeep16052000@gmail.com</a></li> <li><img src="https://w7.pngwing.com/pngs/46/539/png-transparent-linkedin-logo-media-sns-social-social-links-icon.png" width="15px"/> LinkedIn: <a href="https://www.linkedin.com/in/amandeep-singh1120"> Amandeep Singh</a></li> </ul> </td> </tr> </table> ```
 
 
 
