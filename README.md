@@ -173,8 +173,7 @@
         <li><img src="https://w7.pngwing.com/pngs/46/539/png-transparent-linkedin-logo-media-sns-social-social-links-icon.png" width="15px"/> LinkedIn:<a href="www.linkedin.com/in/amandeep-singh1120"> Amandeep Singh</a></li>
         
     
-      </ul>
-    </td>
+    
   </tr>
 </table>
 
