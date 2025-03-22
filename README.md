@@ -147,6 +147,19 @@
     
   </tr>
 </table>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Amandeep-Singh07&theme=midnight-purple" alt="My Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amandeep-Singh07&theme=midnight-purple" alt="Top Languages" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Amandeep-Singh07&theme=vision-friendly-dark" alt="Amandeep's GitHub Streak" />
+</div>
+
+<div align="center">
+  😍 Total Views on Profile:<br><br> 
+  <img src="https://profile-counter.glitch.me/Amandeep-Singh07/count.svg" alt="Visitor Count" />
+</div>
 
 
 ![snake gif](https://github.com/Amandeep-Singh07/Amandeep-Singh07/blob/output/github-snake-dark.svg)
