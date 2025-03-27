@@ -28,13 +28,13 @@
 ```markdown
 🎓 Pursuing a Diploma in Computer Science
 👨‍💻 Passionate about programming and exploring the world of technology.
-🔎 Main interests: Development & Penetration Testing
+🔎 Main interests: Development & Problem Solving
 🔭 Thriving on building robust Backend Systems.
-🌱 Currently diving into DevOps and Next.js
-🌟 Proficient in: Java, TypeScript
+🌱 Currently diving into React and Next.js
+🌟 Proficient in: Java, js
 💼 Open to collaboration on innovative Web development projects!
 🚩 Keep coding, keep innovating! Let's build the future together!
-🐧 I use Arch btw...
+🐧 I use Windows btw (>_<)
 🎧 Most likely listening to a song right now
 🔄 To understand recursion, you first need to understand recursion.
 ​​‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ 
@@ -161,6 +161,17 @@
   <img src="https://profile-counter.glitch.me/Amandeep-Singh07/count.svg" alt="Visitor Count" />
 </div>
 
+<!-- Contribution Graph-->
+
+### 📈 Contribution Graph:
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100vw">
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Amandeep-Singh07&radius=16&theme=redical&area=true&order=5" height="300" alt="activity-graph graph"  />
+</div>
+<br>
+
+### 🐍 Snake-Eating My Contribution Graph:
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif">
 
 ![snake gif](https://github.com/Amandeep-Singh07/Amandeep-Singh07/blob/output/github-snake-dark.svg)
 
