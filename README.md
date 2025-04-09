@@ -105,10 +105,10 @@
 
 <div align="center">
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/2048px-Visual_Studio_Code_1.35_icon.svg.png" alt="Visual Studio Code" height="40">
-<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcREAZ86coHvlx5vGsRzLG5Jwsdr06usVZH3lQ&s" alt="neovim" height="40">
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/IntelliJ_IDEA_Icon.svg/1200px-IntelliJ_IDEA_Icon.svg.png" alt="IntelliJ IDEA" height="40">
-<img src="https://ph-files.imgix.net/3edf830d-c178-4727-b575-b6655a216494.png" alt="Sublime Text" height="40">
-<img src="https://upload.wikimedia.org/wikipedia/commons/9/9f/Vimlogo.svg" alt="Vim" height="40">
+<!-- <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcREAZ86coHvlx5vGsRzLG5Jwsdr06usVZH3lQ&s" alt="neovim" height="40"> -->
+<!-- <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/IntelliJ_IDEA_Icon.svg/1200px-IntelliJ_IDEA_Icon.svg.png" alt="IntelliJ IDEA" height="40"> -->
+<!-- <img src="https://ph-files.imgix.net/3edf830d-c178-4727-b575-b6655a216494.png" alt="Sublime Text" height="40"> -->
+<!-- <img src="https://upload.wikimedia.org/wikipedia/commons/9/9f/Vimlogo.svg" alt="Vim" height="40"> -->
 </div>
   
 #### 💻Workspace:
@@ -117,12 +117,12 @@
 <img src="https://i.ibb.co/QMh6KpS/win11.png" alt="Windows 11" height="50">
 <!-- <img src="https://i.ibb.co/Bwknn5y/redhat.png" alt="Red Hat Enterprise Linux" height="50"> -->
 <img src="https://freepngimg.com/save/76037-installation-ubuntu-server-edition-linux-canonical/800x801" alt="ubuntu-server" height="50">
-<img src="https://i.ibb.co/PZJJgks/mac.png" alt="Mac OS" height="50">
+<!-- <img src="https://i.ibb.co/PZJJgks/mac.png" alt="Mac OS" height="50"> -->
 <!-- <img src="https://cdn0.iconfinder.com/data/icons/flat-round-system/512/archlinux-512.png" alt="Arch Linux" height="50"> -->
-<img src="https://i.ibb.co/k3PHj6C/kali.png" alt="Kali Linux" height="50">
+<!-- <img src="https://i.ibb.co/k3PHj6C/kali.png" alt="Kali Linux" height="50"> -->
 <!-- <img src="https://i.ibb.co/41N7NXX/parrot.png" alt="Parrot Security" height="50"> -->
-<img src="https://absolutelybaching.com/wp-content/uploads/2022/05/garuda-linux-logo.png" alt="Garuda Linux" height="50">
-<img src="https://i.ibb.co/9yN3jNt/fedora.png" alt="fedora" height="50">
+<!-- <img src="https://absolutelybaching.com/wp-content/uploads/2022/05/garuda-linux-logo.png" alt="Garuda Linux" height="50"> -->
+<!-- <img src="https://i.ibb.co/9yN3jNt/fedora.png" alt="fedora" height="50"> -->
 </div>
 
 
