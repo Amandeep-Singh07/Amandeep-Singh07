@@ -31,7 +31,7 @@
 🔎 Main interests: Development & Problem Solving
 🔭 Thriving on building robust Backend Systems.
 🌱 Currently diving into React and Next.js
-🌟 Proficient in: Cpp, js
+🌟 Proficient in: cpp, js
 💼 Open to collaboration on innovative Web development projects!
 🚩 Keep coding, keep innovating! Let's build the future together!
 🐧 I use Windows btw (>_<)
