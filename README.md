@@ -140,7 +140,7 @@
     <td>
       <ul>
         <li><img src="https://cdn-icons-png.flaticon.com/512/8743/8743996.png" width="15"/> Website:<a href="#"> https://portfolio-beige-chi-72.vercel.app/</a></li>
-        <li><img src="https://static.vecteezy.com/system/resources/previews/022/484/508/non_2x/google-mail-gmail-icon-logo-symbol-free-png.png" width="15px"/> Email:<a href="mailto:amandeepsingh12052002@gmail.com/"> amandeepsingh12052002@gmail.com</a></li>
+        <li><img src="https://static.vecteezy.com/system/resources/previews/022/484/508/non_2x/google-mail-gmail-icon-logo-symbol-free-png.png" width="15px"/> Email:<a href="mailto:amandeepsingh12052002@gmail.com/"> amandeep7.dev@gmail.com</a></li>
         <li><img src="https://w7.pngwing.com/pngs/46/539/png-transparent-linkedin-logo-media-sns-social-social-links-icon.png" width="15px"/> LinkedIn:<a href="https://www.linkedin.com/in/amandeep-singh1120"> Amandeep Singh</a></li>
         
     
